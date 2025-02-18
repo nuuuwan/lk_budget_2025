@@ -1,18 +1,10 @@
-Budget Speech - 2025 
+# Budget Speech - 2025 
 
-mEu Fkhu jprhehaf;f, epjp> jpl;lkply; kw;Wk; nghUshjhu mgptpUj;jp mikr;ru; 
+*By Anura Kumara Dissanayake, Minister of Finance, Planning and Economic Development*
 
-Anura Kumara Dissanayake, Minister of Finance, Planning and Economic Development 
+*79th Budget Speech, 17th  February 2025, Parliament of Sri Lanka*
 
-79th Budget Speech  
-
-17th  February 2025 
-
-Parliament of Sri Lanka 
-
-Budget Speech - 2025 
-
-Preamble 
+## Preamble 
 
 Honourable Speaker, it is our pleasure to present the first National Budget of our 
 
