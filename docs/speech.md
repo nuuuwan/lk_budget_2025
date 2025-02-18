@@ -274,7 +274,7 @@ must be patient, and collectively work with discipline and determination, and th
 
 rewards will materialise as we go forward.  
 
-Principles of Budget 2025 
+## Principles of Budget 2025 
 
 A budget is not just a set of revenue and expenditure proposals for the upcoming 
 
@@ -352,7 +352,7 @@ good governance and elimination of corruption.  Governance reforms and anti-
 
 flagship Clean Sri Lanka initiative aims to give life to this aspiration of society.  
 
-Medium Term Macroeconomic Direction 
+## Medium Term Macroeconomic Direction 
 
 Through the proposals presented in this budget, we are laying the foundation for 
 
@@ -412,7 +412,7 @@ economic stability and prosperity.
 
 I will now present the 2025 Budget proposals to this Parliament. 
 
-1.  Expanding Exports of Goods and Services 
+## 1. Expanding Exports of Goods and Services
 
 Government will formulate the national export development plan (2025-2029) 
 
@@ -456,7 +456,7 @@ existing 44 DTAs with priority given to countries with high trade and investment
 
 potential.   
 
-2.  Investment Promotion and Facilitation 
+## 2. Investment Promotion and Facilitation
 
 Government  will  support  expansion  of  export-oriented  investment,  sector-
 
@@ -582,7 +582,7 @@ support  the  initial  development  and  establishments  of  advanced  scanning
 
 systems for Port of Colombo and Bandaranayake International Airport. 
 
-4.  Digital Economy Advancement  
+## 4. Digital Economy Advancement
 
 important pillars of our Economic Development strategy. Digital Transformation 
 
@@ -644,7 +644,7 @@ Accordingly, we propose to allocate Rs. 3,000 million to bolster the acceleratio
 
 of Digital Economy Development through the initiatives described. 
 
-5.  Tourism Sector 
+## 5. Tourism Sector
 
 It is necessary to ensure that we focus on the value generated from tourism 
 
@@ -692,7 +692,7 @@ security alerts, feedback on tourist experience and monitor complaints to law
 
 enforcement authorities.      
 
-6.  SMEs as the Backbone of Economic Development 
+## 6. SMEs as the Backbone of Economic Development
 
 The development of small and medium enterprises and entrepreneurship is a key 
 
@@ -718,7 +718,7 @@ mechanism. The Government will support this task through the National Credit
 
 Guarantee Institution (NCGI).  
 
-7.  Fostering Innovation & Entrepreneurship 
+## 7. Fostering Innovation & Entrepreneurship
 
 R&D  projects  will  be  aligned  with  the  industry  needs  in  collaboration  and 
 
@@ -752,7 +752,7 @@ purpose,  we  propose  to  allocate  Rs.  1,000  million  to  create  an  Innova
 
 Invention Fund for commercialization of Research Findings. 
 
-8.  Expenditure Management 
+## 8. Expenditure Management
 
 The Government will continue efforts to streamline state expenditure. The entire 
 
@@ -834,7 +834,7 @@ spread across the island for the implementation of programs aimed at women Rs.
 
 720 million will be incurred.  
 
-10.   Towards a Healthy Society  
+## 10. Towards a Healthy Society
 
 i.  Digitalization of the Health system 
 
@@ -944,9 +944,9 @@ Accordingly, we propose allocating  Rs. 250 million  for developing  a model
 
 daycare center.  
 
-11.  Education Opportunities for Everyone 
+## 11. Education Opportunities for Everyone
 
-             Due to economic challenges that prevailed in the country, renovations of school 
+Due to economic challenges that prevailed in the country, renovations of school 
 
 infrastructure have not been done since 2019. Therefore, over Rs. 10,000 million 
 
@@ -1064,7 +1064,7 @@ facilities for this library. In addition to that, we propose to allocate another
 
 200 million under this budget for the development of other regional libraries. 
 
-12.  Energy Sector 
+## 12. Energy Sector
 
 on diversifying energy sources with more weight on renewable energy and 
 
@@ -1100,7 +1100,7 @@ to access international markets. We expect to develop these tanks collaborating
 
 with internationally recognized companies.  
 
-13. Agriculture and Food Security 
+## 13. Agriculture and Food Security
 
 The agriculture sector provides employment to approximately 30 percent of the 
 
@@ -1218,7 +1218,7 @@ Minneriya and Hurulu Wewa schemes, an allocation of Rs. 2,000 million is
 
 proposed to be provided in 2025.  
 
-14. Plantations and other export crops 
+## 14. Plantations and other export crops
 
 The global demand for coconut products is continuously increasing, and as 
 
@@ -1252,7 +1252,7 @@ to  implement  an  integrated  product  development  and  trade  promotion
 
 programme on Ceylon cinnamon and other export crops.  
 
-       15. Fisheries & Aquaculture 
+## 15. Fisheries & Aquaculture
 
 Limited availability of freshwater prawn seeds is identified as a major constraint 
 
@@ -1272,7 +1272,7 @@ networks and facilitate farmer societies to link with such marketing networks as
 
 well. For this purpose, we propose to allocate Rs. 200 million. 
 
-       16. Social Protection 
+## 16. Social Protection
 
 Increasing  ageing  population,  low  female  labour  force  participation,  and 
 
@@ -1516,7 +1516,7 @@ during the upcoming New Year season. We propose to allocate Rs. 1,000 million
 
 to finance these rations. 
 
-17. Sri Lankan Expatriates 
+## 17. Sri Lankan Expatriates
 
 both in terms of foreign exchange remittances and skills they bring back to the 
 
@@ -1528,7 +1528,7 @@ workers as they return to the country. The criteria and basis for the allowance 
 
 be determined and publicized following a detailed study of options.  
 
-18. Special Interest Scheme for Senior Citizens 
+## 18. Special Interest Scheme for Senior Citizens
 
 We propose to implement a Special Interest Scheme for Senior Citizens. Under 
 
@@ -1544,7 +1544,7 @@ subsidize the 3 percent additional interest to be paid for the senior citizens.
 
 This scheme will be implemented from July 2025.  
 
-19. Creating a Drug - Free Society 
+## 19. Creating a Drug - Free Society
 
 Drug addiction is a significant concern in Sri Lanka, affecting various segments 
 
@@ -1560,7 +1560,7 @@ and integration, and law enforcement. Accordingly, we propose to allocate Rs.
 
 500 million to implement a compressive program to create drug-free society. 
 
-20. Skills Development Programme for Convicted Prisoners 
+## 20. Skills Development Programme for Convicted Prisoners
 
 At present, there are around 30,000 prisoners in 37 prisons located island wide. 
 
@@ -1580,7 +1580,7 @@ relevant  vocational  qualifications.  For  this  purpose,  we  propose  to  inc
 
 existing allocation by Rs. 100 million to implement this programme.             
 
-21. Public Transport Modernization 
+## 21. Public Transport Modernization
 
 access to meaningful economic engagement and mobility.  
 
@@ -1738,7 +1738,7 @@ aligned with the developmental needs of the Mullaitivu District. We propose to
 
 allocate Rs. 1,000 million under this budget to commence work accordingly. 
 
-  22. Regional Development 
+## 22. Regional Development
 
 The Decentralize Budget Programme 2025 is being implemented focusing on 
 
@@ -1752,7 +1752,7 @@ disparities. The remaining Rs. 9,000 million will be allocated for the essential
 
 development activities.  
 
-23. District Development Programme 
+## 23. District Development Programme
 
 As we understand, there are unanswered issues in many districts in spite of the 
 
@@ -1774,7 +1774,7 @@ to enhance their decent living. In this context, we propose to allocate Rs. 2,00
 
 million in the budget 2025 to address these emerging issues at district level. 
 
-24. Eastern Province Development 
+## 24. Eastern Province Development
 
 Eastern Province is one of the provinces with a huge potential for economic 
 
@@ -1788,7 +1788,7 @@ mainly  on  education,  health,  agriculture,  fisheries,  tourism  and  communi
 
 empowerment sectors. 
 
-25. Programmes to Uplift the Living Standards of Malayagam Tamil People 
+## 25. Programmes to Uplift the Living Standards of Malayagam Tamil People
 
 The Malayagam people are a part of the Sri Lankan nation and have been living 
 
@@ -1812,7 +1812,7 @@ iii. Rs. 866 million is allocated for smart class rooms for schools in Malayagam
 
 Tamil community. 
 
-             26. Industrial Development 
+## 26. Industrial Development
 
 The  industrial  sector  in  Sri  Lanka  plays  a  crucial  role  in  its  economy 
 
@@ -1850,7 +1850,7 @@ requirement for this purpose within the already allocated budgetary provisions
 
 of Rs. 1,500 million under the Ministry of Industry for this purpose.  
 
-27. Clean Sri Lanka 
+## 27. Clean Sri Lanka
 
 The Clean Sri Lanka Program is a massive program implemented through the 
 
@@ -1906,7 +1906,7 @@ For this, we propose to allocate Rs. 5,000 million from the state budget for the
 
 2025 in addition to the financial contribution of the donors.        
 
-28. Solid Waste Management 
+## 28. Solid Waste Management
 
 There is a growing issue of solid waste management in many areas of the country. 
 
@@ -1924,7 +1924,7 @@ protect  the  environment,  and  promote  sustainable  development  in
 
 Anuradhapura municipal area. 
 
-     29. Mitigating Elephant-Human Conflict and Conservation of Forests  
+## 29. Mitigating Elephant-Human Conflict and Conservation of Forests
 
 To minimize crop damage, property destruction, and loss of life caused by wild 
 
@@ -1968,7 +1968,7 @@ tourism, increase forest cover, minimize forest fires, and prevent forest-relate
 
 crimes. 
 
-30.  Sustainable Financing 
+## 30. Sustainable Financing
 
 The Government will leverage opportunities in sustainable financing to foster a 
 
@@ -1980,7 +1980,7 @@ Ministry  of Finance  and  Central  Bank,  to access  globally  available  pools
 
 sustainable financing linked to climate change initiatives and related endeavours. 
 
-31. Developing Financial Markets 
+## 31. Developing Financial Markets
 
 As  Sri  Lanka  emerges  from  the  economic  crisis,  the  financial  sector  is  also 
 
@@ -2010,7 +2010,7 @@ diligence  and  all  necessary  safeguards,  amidst  an  effective  regulatory
 
 environment. 
 
-32. Governance Reforms 
+## 32. Governance Reforms
 
 Corruption has been identified as a major impediment to economic progress. 
 
@@ -2038,7 +2038,7 @@ Moreover,  the  Government  will  review  and  implement  Proceeds  of  Crime
 
 legislation which is now in draft stage following a collaborative drafting process.  
 
- 33. Sri Lanka Day  
+## 33. Sri Lanka Day
 
 articulates  a  vision  for  a  reconciled  Sri  Lanka,  committed  to  bridging  gaps 
 
@@ -2048,9 +2048,9 @@ will be organized with the participation of the private sector. Accordingly, we
 
 propose to allocate Rs. 300 million for this purpose. 
 
-34. Housing for Internally Displaced People  
+## 34. Housing for Internally Displaced People
 
- With the reconciliation initiatives and release of lands, the internally displaced 
+With the reconciliation initiatives and release of lands, the internally displaced 
 
 people (IDPs) are being resettled and refugees are returning to the Northern and 
 
@@ -2068,7 +2068,7 @@ up the housing programme and provide essential relief to the families remaining
 
 homeless based on the current requirement.  
 
-     35. Essential Maintenance of Housing Schemes Constructed by Government 
+## 35. Essential Maintenance of Housing Schemes Constructed by Government
 
 The  physical  condition  of  the  public  housing  schemes  provided  by  the 
 
@@ -2082,7 +2082,7 @@ to allocate Rs. 1,000 million for essential maintenance of the apartment complex
 
 constructed by the Central Government. 
 
-36. Housing for Artists/Journalists 
+## 36. Housing for Artists/Journalists
 
 housing  units  are  being  constructed.  Within  this,  an  apartment  complex 
 
@@ -2092,9 +2092,9 @@ area for artists and journalists who make special contributions to the cultural
 
 enrichment of our society.  
 
-         37. Drinking Water Sector  
+## 37. Drinking Water Sector
 
-community water projects 
+community water projects
 
 The pipe-borne drinking water coverage by the National Water Supply and 
 
@@ -2162,7 +2162,7 @@ initial works in Giribawa- Eppawala Water Supply Scheme to provide pipe-borne
 
 water to the area.      
 
-           38. Filling Essential Vacancies in the Public Service 
+## 38. Filling Essential Vacancies in the Public Service
 
 We have stopped the past practice of filling the public service with the supporters 
 
@@ -2182,7 +2182,7 @@ this year. Accordingly, we propose to allocate Rs 10,000 million for this purpos
 
 in 2025. 
 
-39. Public Service Salary Increase 
+## 39. Public Service Salary Increase
 
 Given that nearly a decade has passed since the last basic salary revision, it is now 
 
@@ -2250,7 +2250,7 @@ also be increased to Rs. 400,000. Further details of the salary increase are giv
 
 the Technical Note in Annexure V.      
 
-40. Private Sector Minimum Wage Increase 
+## 40. Private Sector Minimum Wage Increase
 
 The  Employers'  Associations  have  already  agreed  to  increase  the  monthly 
 
@@ -2258,7 +2258,7 @@ Minimum Wage to the Private Sector workers from Rs. 21,000 to Rs. 27,000 in
 
 April 2025 and to Rs. 30,000 from 2026.  
 
-41. Reconsideration of the Wage of Plantation Workers 
+## 41. Reconsideration of the Wage of Plantation Workers
 
 There are nearly 1.5 million plantation workers engaged in the sector, mainly in 
 
@@ -2270,7 +2270,7 @@ of plantation sector, the Government will intervene to increase the daily wages 
 
 the workers to Rs. 1,700. 
 
-42. Public Sector Pensions 
+## 42. Public Sector Pensions
 
 Further, by considering salaries and benefits entitled to them, a monthly increase 
 
@@ -2312,7 +2312,7 @@ the fourth and fifth stages of the salary conversion from July 2026 and July 202
 
 respectively. 
 
-              43. Legal Reforms           
+## 43. Legal Reforms
 
 The Government will introduce a number of legal reforms in the coming year to 
 
@@ -2332,7 +2332,7 @@ financing.  More details on these laws are available in the Annexure VIII of the
 
 budget.       
 
-          44.  Revenue Measures 
+## 44. Revenue Measures
 
 based fiscal consolidation. This is reflective of the fact that leading up to the 
 
@@ -2420,7 +2420,7 @@ point, it will be possible to provide further relief to the public in a manner t
 
 fiscal and economic stability.       
 
-45. Borrowing Limit 
+## 45. Borrowing Limit
 
 The Borrowing Limit for the Appropriation Bill for the financial year 2025 is 
 
@@ -2434,7 +2434,7 @@ Reading of the Budget under the Public Financial Management Act, No. 44 of
 
 2024, are also tabled. 
 
-Conclusion  
+## Conclusion  
 
 While the policies that I outlined today reflect the vision upon which I was elected 
 
@@ -2572,4 +2572,4 @@ officials at the Treasury to successfully implement the budget proposals in time
 
 to take forward the economic programme of the Government.  
 
-Thank you! 
+Thank you!
